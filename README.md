@@ -6,6 +6,8 @@ Resolução do desafio do Front-End Mentor.
 
 ### O Desafio
 
+Criar o site de maneira bem próxima ao design original, e com suas devidas estilizações.
+
 Os usuários devem ter o poder de:
 
 - Visualizar o layout ideal dependendo do tamanho da tela do dispositivo.
