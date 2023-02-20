@@ -1,2 +1,28 @@
-# frontend-challenge-nft-preview-card
-Desafio realizado do site FrontEnd Mentor, com foco no estudo de HTML, CSS. 
+# Frontend Mentor - NFT preview card component solution
+
+Resolução do desafio do Front-End Mentor.
+
+## Visão geral
+
+### O Desafio
+
+Os usuários devem ter o poder de:
+
+- Visualizar o layout ideal dependendo do tamanho da tela do dispositivo.
+- Interações com o site para elementos interativos.
+
+## Meu processo
+
+### Construído com
+
+- HTML5 Semântico
+- CSS3
+
+### O que aprendi
+
+Aprendi a criar pequenas estilizações ao passar o mouse sobre determinados elementos, e alinhar ícones corretamente.
+
+## Autor
+
+- LinkedIn - Gabriel Rezende (https://https://www.linkedin.com/in/gabriel-rezende-1130b6224/)
+- GitHub - gabrielrezendep (https://github.com/gabrielrezendep)
